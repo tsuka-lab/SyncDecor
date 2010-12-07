@@ -1,0 +1,5 @@
+4
+http://orange.siio.jp/~hitomi/syncdecor/trashwrite2.php
+http://orange.siio.jp/~hitomi/syncdecor/trashstate2.txt
+Phidgets,Out,Servo,0,0,100\r\n
+Phidgets,Out,Servo,0,0,175\r\n

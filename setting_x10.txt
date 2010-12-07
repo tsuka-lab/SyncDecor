@@ -1,0 +1,9 @@
+4
+http://orange.siio.jp/~hitomi/syncdecor/lampwrite2.php
+http://orange.siio.jp/~hitomi/syncdecor/lampstate2.txt
+http://orange.siio.jp/~hitomi/syncdecor/aromawrite2.php
+http://orange.siio.jp/~hitomi/syncdecor/aromastate2.txt
+X10,Out,A,1,Power,True\r\n
+X10,Out,A,1,Power,False\r\n
+X10,Out,A,2,Power,True\r\n
+X10,Out,A,2,Power,False\r\n 
